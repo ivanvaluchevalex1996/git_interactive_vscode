@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <div>123</div>
       <div>123фыв</div>
+      <div>123фыв</div>
     </div>
   );
 }
