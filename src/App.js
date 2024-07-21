@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div>123</div>
-      <div>123</div>
+      <div>reset</div>
     </div>
   );
 }
